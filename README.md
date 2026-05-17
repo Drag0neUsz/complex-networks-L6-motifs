@@ -11,7 +11,7 @@ The notebook compares motif counts in a real Facebook graph vs a Barabási–Alb
 ## Dataset
 Source: https://networkrepository.com/fb-pages-tvshow.php
 
-This dataset is a Facebook Pages network for TV shows. Nodes are pages and edges are links between pages (see source page for full definition/metadata).
+This dataset is a Facebook Pages network for TV shows. Nodes are pages and edges are mutual likes between pages (see source page for full definition/metadata).
 
 The included `facebook_graph.pkl` has:
 - **3,892 nodes**
